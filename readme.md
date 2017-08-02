@@ -5,10 +5,10 @@ The original Java solutions to the 6th Edition can be found [here](https://githu
 
 #### Table of Contents
 * [Chapter 1: Arrays and Strings](../master/chapter-1-arrays-and-strings) (pgs 90-91 in book)
+* [Chapter 2: Linked Lists](../master/chapter-2-linked-lists) (pgs 94-95 in book)
 
 Contents listed below this line do not yet exist:
 _________________________________________________________________
-* [Chapter 2: Linked Lists](../master/chapter-2-linked-lists) (pgs 94-95 in book)
 * [Chapter 3: Stacks and Queues](../master/chapter-3-stacks-and-queues) (pgs 98-99 in book)
 * [Chapter 4: Trees and Graphs](../master/chapter-4-trees-and-graphs) (pgs 109-111 in book)
 * [Chapter 5: Bit Manipulation](../master/chapter-5-bit-manipulation) (pgs 115-116 in book)
