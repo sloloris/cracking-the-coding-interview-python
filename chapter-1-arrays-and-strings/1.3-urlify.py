@@ -3,13 +3,29 @@
 def urlify(strng):
     """ Example input & output
 
-        >>> urlify("Mr John Smith")
-        "Mr%20John%20Smith"
+        >>> urlify('Mr John Smith')
+        'Mr%20John%20Smith'
+
+        >>> urlify('    ')
+        '%20%20%20%20'
+
+        >>> urlify('%20 %20')
+        '%20%20%20'
         
     """
+    urled = ""
+    for char in strng:
+        if char == " ":
+            urled += "%20"
+        else:
+            urled += char
+
+    return urled
 
 
 
 
 if __name__ == "__main__":
-    print "nothing yet"
+    import doctest
+    if doctest.testmod().failed == 0:
+        print "tests pass"
