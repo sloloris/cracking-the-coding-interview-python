@@ -6,15 +6,15 @@ The original Java solutions to the 6th Edition can be found [here](https://githu
 #### Table of Contents
 * [Chapter 1: Arrays and Strings](../master/chapter-1-arrays-and-strings) (pgs 90-91 in book)
 * [Chapter 2: Linked Lists](../master/chapter-2-linked-lists) (pgs 94-95 in book)
-
-Contents listed below this line do not yet exist:
-_________________________________________________________________
 * [Chapter 3: Stacks and Queues](../master/chapter-3-stacks-and-queues) (pgs 98-99 in book)
 * [Chapter 4: Trees and Graphs](../master/chapter-4-trees-and-graphs) (pgs 109-111 in book)
 * [Chapter 5: Bit Manipulation](../master/chapter-5-bit-manipulation) (pgs 115-116 in book)
-* [Chapter 6: Math and Logic Puzzles](../master/chapter-6-math-and-logic-puzzles) (pgs 122-123 in book)
-* [Chapter 7: Object-Oriented Design](../master/chapter-7-object-oriented-design) (pgs 127-129 in book)
+* Chapter 6: Math and Logic Puzzles (pgs 122-123 in book) - not Python problems and therefore not included
+* Chapter 7: Object-Oriented Design (pgs 127-129 in book) - not Python problems and therefore not included
 * [Chapter 8: Recursion and Dynamic Programming](../master/chapter-8-recursion-and-dynamic-programming) (pgs 134-136 in book)
+
+Contents listed below this line do not yet exist:
+_________________________________________________________________
 * [Chapter 9: System Design and Scalability](../master/chapter-9-system-design-and-scalability) (pgs 144-145 in book)
 * [Chapter 10: Sorting and Searching](../master/chapter-10-sorting-and-searching) (pgs 149-151 in book)
 * [Chapter 11: Testing](../master/chapter-11-testing) (pg 157 in book)
