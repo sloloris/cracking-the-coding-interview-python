@@ -1,4 +1,4 @@
-# Implement a Linked List from scratch with an add, remove, & print method. Should contain self.data & self.next.
+""" Implement a Linked List from scratch with an add, remove, & print method. Should contain self.data & self.next. """
 
 
 
