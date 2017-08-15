@@ -8,6 +8,24 @@ EXAMPLE
 Input: (6 -> 1 -> 7) + (2 -> 9 -> 5). That is, 617 + 295.
 Output: 9 -> 1 -> 2. That is, 912.
 """
+from LL_implementation import LLNode, LinkedList
+
+# Can you assume both numbers have the same number of digits?
+
+def sum_lists(ll1,ll2):
+    node1 = ll1.head
+    node2 = ll2.head
+    list_sum = 0
+    digit = 0.1
+    while node1:
+        digit *= 10
+        list_sum += (node1.data + node2.data) * digit
+        node1 = node1.next
+        node2 = node2.next
+    while list_sum > 0:
+        remainder = list_sum % digit
+        
+
 
 
 

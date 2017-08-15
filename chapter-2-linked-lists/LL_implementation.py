@@ -43,6 +43,7 @@ class LinkedList(object):
 
     def remove(self, node_data):
         current = self.head
+        previous = None
         while current.data != node_data:
             previous = current
             current = current.next
